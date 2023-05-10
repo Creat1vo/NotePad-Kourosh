@@ -1,0 +1,12 @@
+D:\Programing Code\C# Progect\simple-notepad-master\Notepad\bin\Debug\Notepad.exe.config
+D:\Programing Code\C# Progect\simple-notepad-master\Notepad\bin\Debug\Notepad.exe
+D:\Programing Code\C# Progect\simple-notepad-master\Notepad\bin\Debug\Notepad.pdb
+D:\Programing Code\C# Progect\simple-notepad-master\Notepad\obj\Debug\KouroshPad.csproj.AssemblyReference.cache
+D:\Programing Code\C# Progect\simple-notepad-master\Notepad\obj\Debug\KouroshPad.csproj.SuggestedBindingRedirects.cache
+D:\Programing Code\C# Progect\simple-notepad-master\Notepad\obj\Debug\Notepad.Form1.resources
+D:\Programing Code\C# Progect\simple-notepad-master\Notepad\obj\Debug\Notepad.Form2.resources
+D:\Programing Code\C# Progect\simple-notepad-master\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+D:\Programing Code\C# Progect\simple-notepad-master\Notepad\obj\Debug\KouroshPad.csproj.GenerateResource.cache
+D:\Programing Code\C# Progect\simple-notepad-master\Notepad\obj\Debug\KouroshPad.csproj.CoreCompileInputs.cache
+D:\Programing Code\C# Progect\simple-notepad-master\Notepad\obj\Debug\Notepad.exe
+D:\Programing Code\C# Progect\simple-notepad-master\Notepad\obj\Debug\Notepad.pdb
